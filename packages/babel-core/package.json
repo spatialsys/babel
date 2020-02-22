@@ -40,9 +40,9 @@
   },
   "dependencies": {
     "@babel/code-frame": "^7.8.3",
-    "@babel/generator": "^7.8.4",
+    "@babel/generator": "git+https://github.com/spatialsys/spatialwebapp-gitpkg-registry.git#babel-generator-v7.8.4-gitpkg",
     "@babel/helpers": "^7.8.4",
-    "@babel/parser": "^7.8.4",
+    "@babel/parser": "git+https://github.com/spatialsys/spatialwebapp-gitpkg-registry.git#babel-parser-v7.8.4-gitpkg",
     "@babel/template": "^7.8.3",
     "@babel/traverse": "^7.8.4",
     "@babel/types": "^7.8.3",
